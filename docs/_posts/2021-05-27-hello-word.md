@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World!"
 date: 2021-05-27 18:56:33 +0800
-categories: CATEGORY-1 CATEGORY-2
+categories: test
 ---
 
 # Welcome
