@@ -8,8 +8,6 @@ categories: Blog
 
 **this is my first Jekyll blog post.**
 
-I hope you like it!
-
 I began to learn HTML again a couple of weeks ago. 
 
 This time I want to trace my learning activities openly,
