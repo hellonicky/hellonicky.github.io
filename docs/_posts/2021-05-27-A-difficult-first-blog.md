@@ -10,9 +10,7 @@ categories: Blog
 
 I began to learn HTML again a couple of weeks ago. 
 
-This time I want to trace my learning activities openly,
-
-so I choose to use GitHub Pages and Jekyll to maintain a personal website. 
+This time I want to trace my learning activities openly,so I choose to use GitHub Pages and Jekyll to maintain a personal website. 
 
 Following the official docs, I found it's very easy to set up a website.
 
