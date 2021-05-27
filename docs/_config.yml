@@ -22,8 +22,8 @@ title: Nicky's Space
 email: xy.n.lau@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Nicky uses this site to learn HTML
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://hellonicky.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/about" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 Dingtalk_id: xiaocosmos
 github_username:  hellonicky
 
